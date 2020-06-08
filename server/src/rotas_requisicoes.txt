@@ -1,0 +1,8 @@
+// GET: Buscar um ou mais informações do back-end - http://localhost:3333/users ou users/0
+// POST: Criar uma nova informação no back-end - 
+// PUT: Atualizar uma informação do back-end
+// DELETE: Remover uma informação do back-end
+
+// Request Param: Parâmetros que vem na pŕopria rota que identificam um recurso
+// Query Param: Parâmetros que vem na própria rota geralmente opcionais para filtros, paginação
+// Request body: Parâmetros para criação/atualização de infromações 
