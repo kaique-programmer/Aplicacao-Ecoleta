@@ -21,11 +21,11 @@ A pasta mobile aloca todos arquivos referentes ao desenvolvimento da versão mob
 
 ## Contribuindo
 
-Leia [CONTRIBUTING.md] (https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
+Leia [CONTRIBUTING.md] (https://github.com/kaique-programmer/Aplicacao-Ecoleta) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
 
 ## Controle de versão
 
-Usamos [SemVer] (http://semver.org/) para versionar. Para as versões disponíveis, consulte as [tags neste repositório] (https://github.com/your/project/tags).
+Usamos [SemVer] (http://semver.org/) para versionar. Para as versões disponíveis, consulte [Ecoleta] (https://github.com/kaique-programmer/Aplicacao-Ecoleta).
 
 ## Autores
 
