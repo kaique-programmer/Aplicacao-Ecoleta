@@ -9,9 +9,9 @@ Ter conhecimento das tecnologias utilizadas no projeto.
 
 ## Desdobramento, desenvolvimento
 
-A pasta server está alocando todos arquivos necessários para o back-end - Node.
-A pasta web aloca todos os arquivos do lado do cliente da aplicação para ser executada nos navegadores  - React. 
-A pasta mobile aloca todos arquivos referentes ao desenvolvimento da versão mobile do app - React Native.
+* A pasta server está alocando todos arquivos necessários para o back-end - Node.
+* A pasta web aloca todos os arquivos do lado do cliente da aplicação para ser executada nos navegadores  - React. 
+* A pasta mobile aloca todos arquivos referentes ao desenvolvimento da versão mobile do app - React Native.
 
 ## Construído com
 
