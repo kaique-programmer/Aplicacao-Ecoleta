@@ -21,7 +21,10 @@ Ter conhecimento das tecnologias utilizadas no projeto.
 
 ## Contribuindo
 
-Leia [CONTRIBUTING.md] (https://github.com/kaique-programmer/Aplicacao-Ecoleta) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
+* Faça um fork desse repositório;
+* Cria uma branch com a sua feature: git checkout -b minha-feature;
+* Faça commit das suas alterações: git commit -m 'feat: Minha nova feature';
+* Faça push para a sua branch: git push origin minha-feature.
 
 ## Controle de versão
 
